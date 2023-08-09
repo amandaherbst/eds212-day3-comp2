@@ -57,3 +57,5 @@ ringtail_minus_fox <- ringtail - fox
 # Dot product
 ringtail %*% fox
 ```
+
+## making another change for practice
